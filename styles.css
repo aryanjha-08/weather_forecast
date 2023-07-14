@@ -1,0 +1,23 @@
+body {
+    background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(65deg, #164761 , #0a75ad );
+  min-height: 700px;
+  font-family: 'helvetica neue';
+  height: 100%;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1rem;
+  }
+
+
+.form-signin .form-floating:focus-within {
+  z-index: 5;
+}
+
+.boxW {
+    background: rgba(197, 201, 198, 0.5);
+    width: 30%;
+    border-radius: 1rem;
+}
